@@ -8,3 +8,9 @@ cd ls
 go build
 ls.exe -h path
 ```
+## Result
+![image](https://github.com/vua/ls/imgs/3.png)
+
+![image](https://github.com/vua/ls/imgs/2.png)
+
+![image](https://github.com/vua/ls/imgs/1.png)
